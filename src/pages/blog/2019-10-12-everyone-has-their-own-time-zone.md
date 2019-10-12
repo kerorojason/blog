@@ -8,6 +8,8 @@ featuredimage: /img/time-zone.jpg
 tags:
   - mood
 ---
+![flavor wheel](/img/time-zone.jpg)
+
 New York is three hours ahead of California, but that does not make California slow
 
 Cameroon is six hours ahead of New York but it does not make New York slow.
