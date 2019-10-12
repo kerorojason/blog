@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Everyone has their own time zone
 date: 2019-10-12T07:23:32.597Z
 description: A short poem
-featuredpost: true
+featuredpost: false
 featuredimage: /img/time-zone.jpg
 tags:
   - mood
